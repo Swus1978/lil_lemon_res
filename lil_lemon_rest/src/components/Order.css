@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+.chef{
+    height: 100%;
+    width: 95%;
+    border-radius: 16px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+section{
+    text-align: center;
+    font-size: 19pt;
+    height: 550px;
+}
